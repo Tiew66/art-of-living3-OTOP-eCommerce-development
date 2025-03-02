@@ -35,10 +35,11 @@ export default function AI() {
 
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                <Link 
-                href="http://127.0.0.1:5000/index" 
-                target="_blank" 
-                rel="noopener noreferrer">
+                <Link
+                  href="http://127.0.0.1:5000/index"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   คลิกตรวจโรคมะเร็งปอดที่นี่
                 </Link>
               </button>
